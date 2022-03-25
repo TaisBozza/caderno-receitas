@@ -4,4 +4,5 @@ Oi ! Seja bem vindo ao meu Livro de Receitas:wave:
 
 - Strogonoff de Frango
 - Pavê
+- Ovo de pascoa
 
